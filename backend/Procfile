@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT borapp_3630.wsgi:application

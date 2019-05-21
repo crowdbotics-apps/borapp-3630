@@ -1,0 +1,3 @@
+rootProject.name = 'borapp_3630'
+
+include ':app'
